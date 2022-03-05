@@ -112,6 +112,10 @@ body {
   font-size: 12px;
 }
 
+.login-box form {
+  text-align: right;
+}
+
 .login-box form a {
   position: relative;
   display: inline-block;
